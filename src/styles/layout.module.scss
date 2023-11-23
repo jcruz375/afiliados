@@ -1,0 +1,16 @@
+.main {
+  min-height: 100vh !important;
+  min-width: 100vh;
+
+  .sidebar {
+    padding: 4rem 1rem;
+  }
+}
+
+.content_wrapper {
+  min-height: 100% !important;
+
+  label {
+    font-size: 14px;
+  }
+}
